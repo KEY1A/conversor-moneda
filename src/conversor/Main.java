@@ -8,7 +8,7 @@ import javax.swing.SwingUtilities;
  */
 public class Main {
     /** Clave de API para el servicio de conversión */
-    private static final String API_KEY = "74d6c739e8b7b03d7ad95d2d";
+    private static final String API_KEY = "XXXXXXXXXXXXXXXXXXXXX";
 
     /**
      * Punto de entrada principal de la aplicación.

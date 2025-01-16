@@ -1,6 +1,6 @@
 # Conversor de Monedas
 
-Una aplicación Java que permite convertir entre diferentes monedas utilizando tasas de cambio en tiempo real.
+UUna aplicación Java que permite convertir entre diferentes monedas utilizando tasas de cambio en tiempo real.
 
 ## Características
 

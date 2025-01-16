@@ -118,8 +118,5 @@ Para contribuir al proyecto:
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## Contacto
 
-Tu Nombre - [@tuTwitter](https://twitter.com/tuTwitter)
-
-Link del Proyecto: [https://github.com/tuUsuario/conversor-monedas](https://github.com/tuUsuario/conversor-monedas)
+Link del Proyecto: [https://github.com/KEY1A/conversor-moneda]
